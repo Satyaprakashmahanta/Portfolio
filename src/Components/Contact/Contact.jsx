@@ -46,7 +46,7 @@ function Contact() {
                             <img src={mail_icon} alt="" /><p>satyaprakashm151@gmail.com</p>
                         </div>
                         <div className="contact-detail">
-                        <img src={call_icon} alt="" /><p>+91 9937172087</p>
+                        <img src={call_icon} alt="" /><p>+91 9876543210</p>
                         </div>
                         <div className="contact-detail">
                         <img src={location_icon} alt="" /><p>Bhubaneswar, India</p>
