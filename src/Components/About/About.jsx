@@ -17,14 +17,14 @@ function About() {
                 </div>
                 <div className="about-right">
                     <div className="about-para">
-                        <p>Hi everyone, I am Soumyaranjan Behera from Odisha, India. I am a third-year student pursuing a Bachelor of Technology in Computer Science and Engineering from Raajdhani Engineering College [REC], Bhubaneswar. </p>
+                        <p>Hi everyone, I am Satyaprakash Mahanta from Odisha, India. I am a final-year student pursuing a Bachelor of Technology in Computer Science and Engineering from Modern institute of technology and management [MITM], Bhubaneswar. </p>
                         <p> I am proficient in Web Development Technologies as mentioned below.</p>
                     </div>
                     <div className="about-skills">
                         <div className="about-skill"><p>HTML & CSS</p><hr style={{width:"50%"}}/></div>
                         <div className="about-skill"><p>JavaScript</p><hr style={{width:"70%"}}/></div>
                         <div className="about-skill"><p>React JS</p><hr style={{width:"60%"}}/></div>
-                        <div className="about-skill"><p>Django</p><hr style={{width:"50%"}}/></div>
+                        <div className="about-skill"><p>Java</p><hr style={{width:"50%"}}/></div>
                     </div>
                 </div>
             </div>

@@ -22,7 +22,7 @@ function Footer() {
             </div>
             <hr />
             <div className="footer-bottom">
-                <p className="footer-bottom-left"> © 2025 Soumyaranjan Behera. </p>
+                <p className="footer-bottom-left"> © 2025 Satyaprakash Mahanta. </p>
                 <div className="footer-bottom-right">
                     <p>Term of Services</p>
                     <p>Privacy Policy</p>
